@@ -1,0 +1,17 @@
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files
+.env
+
+# Build directories
+build/
+dist/
