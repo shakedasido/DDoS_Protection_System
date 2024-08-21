@@ -4,8 +4,8 @@ This project consists of a shell script designed to protect a Linux server from 
 
 ## System:
 
-- [Linux](Linux Installation and Usage)
-- [Windows (using MSYS2)](Windows Installation)
+- [Linux](#linux-installation-and-usage)
+- [Windows (using MSYS2)](#windows-installation)
 
 ## Contents
 
